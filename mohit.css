@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+
+}
+
+.mj{
+    width: 100%;
+    height: 100%;
+    /* padding: 15% 10% 98% 15%; */
+    background-image: url(https://images.alphacoders.com/907/thumbbig-90731.webp);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-style: var(white);
+
+}
+
+.one{
+    background-image: url(https://images.alphacoders.com/910/thumbbig-91021.webp);
+    color: black;
+    font-style: inherit;
+
+}
